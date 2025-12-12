@@ -1,0 +1,2 @@
+install project and dependencies: npm install
+start vite dev server: npm run dev
